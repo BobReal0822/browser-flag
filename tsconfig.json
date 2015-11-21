@@ -10,12 +10,14 @@
         "noLib": false,
         "sourceMap": true,
         "diagnostics": false,
-        "outDir": "./bin"
+        "outDir": "./bin/lib"
     },
     "filesGlob": [
         "*/**/*.ts",
         "!node_modules/**"
     ],
     "files": [
+        "lib/brower-flag.ts",
+        "typings/tsd.d.ts"
     ]
 }
