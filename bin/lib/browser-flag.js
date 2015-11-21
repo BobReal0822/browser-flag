@@ -60,4 +60,4 @@
     })();
     root.BrowerFlag = BrowerFlag;
 }());
-//# sourceMappingURL=brower-flag.js.map
+//# sourceMappingURL=browser-flag.js.map

@@ -17,7 +17,7 @@
         "!node_modules/**"
     ],
     "files": [
-        "lib/brower-flag.ts",
+        "lib/browser-flag.ts",
         "typings/tsd.d.ts"
     ]
 }
