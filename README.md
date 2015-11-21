@@ -1,3 +1,3 @@
 # browser-flag
 
-### A javascript library that produces a browser fingerprint writen in [typescript](http://www.typescriptlang.org/).
+### A javascript library writen in [typescript](http://www.typescriptlang.org/) that produces a browser fingerprint.
